@@ -1,0 +1,28 @@
+- name: TS/SCI Security Clearance
+  percentage: 95
+  color: info
+
+- name: Apache Spark
+  percentage: 90
+  color: success
+
+- name: Blockchain
+  percentage: 90
+  color: success
+
+- name: Tableau
+  percentage: 90
+  color: success
+
+- name: DataRobot AutoML
+  percentage: 90
+  color: success
+
+- name: Natural Language Processing
+  percentage: 90
+  color: success
+
+- name: Project Management
+  percentage: 90
+  color: success
+
