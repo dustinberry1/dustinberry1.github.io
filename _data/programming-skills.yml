@@ -1,11 +1,11 @@
+- name: Python
+
 - name: R
-  percentage: 90
-  color: danger
 
 - name: SQL
-  percentage: 80
-  color:
 
-- name: Python
-  percentage: 70
-  color: secondary
+- name: Machine Learning
+
+- name: Apache spark
+
+- name: Natural Language Processing

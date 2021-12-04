@@ -1,10 +1,8 @@
 <footer class="mt-auto py-3 text-center">
 
-    <small class="text-muted mb-2">
-      Made with <i class="fas fa-heart"></i>
-      by <strong>{{ site.author.name }}</strong>
-    </small>
   
     {% include social.html %}
+
+    <p style="color: #6c757d">&copy; {{ site.time | date:"%Y" }} {{ site.author.name }}</p>
     
   </footer>
