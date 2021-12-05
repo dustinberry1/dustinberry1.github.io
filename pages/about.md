@@ -16,5 +16,5 @@ A proven leader with strong communication, analytical, and organizational skills
 </div>
 
 <div class="row">
-{% include about/timeline.html %}
+{% include about/skills.html title="Education" source=site.data.education %}
 </div>
