@@ -1,6 +1,6 @@
 ---
 name: DSCI Union Membership
-description: Machine learning model to predict whether members of a Data Science union will continue paying dues.
+description: Machine Learning model to predict whether members of a Data Science union will continue paying dues.
 tools: [Jupyter Notebook]
 image: 
 external_url: https://github.com/dustinberry1/DSCI-Union-Membership
