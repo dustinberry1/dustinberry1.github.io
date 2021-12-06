@@ -1,6 +1,6 @@
 ---
 name: Wine Quality NN
-tools: [Jupyter Notebook]
+tools: [RStudio]
 image: 
 external_url: https://github.com/dustinberry1/Wine-Quality-NN
 ---
