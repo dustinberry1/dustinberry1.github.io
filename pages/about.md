@@ -7,7 +7,7 @@ weight: 3
 
 # **About Me**
 
-Hi I'm {{ site.author.name }},<br>
+<br>
 A proven leader with strong communication, analytical, and organizational skills who works alongside leaders at all levels to achieve strategic goals and mission success. Experienced in data science, predictive analytics, machine learning, operations management, and data driven problem solving across a diverse set of organizations.
 
 <div class="row">
