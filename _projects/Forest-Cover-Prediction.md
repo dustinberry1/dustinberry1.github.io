@@ -1,6 +1,7 @@
 ---
 name: Forest Cover Prediction
-tools: [HTML]
+description: Using a forest cover dataset, create and compare models to predict the type of forest cover based on cartographic information.
+tools: [Python]
 image: 
-external_url: https://github.com/dustinberry1/Forest-Cover-Prediction-1
+external_url: https://github.com/dustinberry1/Forest-Cover-Prediction-2
 ---
