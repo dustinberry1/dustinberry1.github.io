@@ -1,7 +1,7 @@
 ---
 name: Wine Quality 
 description: Neural Network
-tools: [RStudio]
+tools: [R]
 image: 
 external_url: https://github.com/dustinberry1/Wine-Quality-NN
 ---
