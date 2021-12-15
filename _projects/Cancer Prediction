@@ -1,6 +1,6 @@
 ---
 name: Cancer Prediction 
-description: Forecast the diagnosis of potential cancer patients using generalized linear models by comparing various feature inclusion measured against McFadden/Pseado R Squared outputs 
+description: Forecast the diagnosis of potential cancer patients using generalized linear models by comparing various feature inclusion measured against McFadden/Pseado R Squared outputs. 
 tools: [R]
 image: 
 external_url: https://github.com/dustinberry1/Cancer-Prediction
