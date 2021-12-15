@@ -1,0 +1,7 @@
+---
+name: Weather Impacts to DC Bike Share Program
+description: Multiple forecast comparisons using various features and models for recommendation to the DC bike share program. This example uses summary statistics, correlation, frequency tables, cross tables, and visualizations in addition to the standard compliment of models.
+tools: [R]
+image: 
+external_url: https://github.com/dustinberry1/Weather-Analysis
+---
