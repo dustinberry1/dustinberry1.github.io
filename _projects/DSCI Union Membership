@@ -1,6 +1,6 @@
 ---
 name: DSCI Union Membership
-description: Machine Learning project to predict whether members of a Data Science union will continue paying dues.
+description: Machine Learning project to predict whether members of a Data Science union will continue paying dues.  Steps include exploratory data analysis, data visualization, data manipulation, dimensionality reduction with principal component analysis, and machine learning modeling with linear regression, logistic regression, decision tree, and random forest.
 tools: [Python]
 image: 
 external_url: https://github.com/dustinberry1/DSCI-Union-Membership
