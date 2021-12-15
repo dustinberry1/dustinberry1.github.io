@@ -1,6 +1,6 @@
 ---
 name: Twitter
-description: Natural Language Processing project utilizing dependency parsers, named entity recognition, tokenization, visualization, unigrams/bigrams, and sentiment analysis.  Additional features include:  Scikit Learn's TFIDF Vectorizer, pipelines including grid seach cross validation for hyperparameter tuning, and user defined functions embedded into a class switcher.  Models include logistic regression, support vector machine, and random forest.  Latent Dirichlet Allocation is also used to discover hidden topics within the dataset.
+description: 
 tools: [Python]
 image: 
 external_url: https://github.com/dustinberry1/Twitter-NLP
