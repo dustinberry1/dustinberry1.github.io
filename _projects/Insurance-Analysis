@@ -1,0 +1,7 @@
+---
+name: Insurance Analysis
+description: Model comparison including multiple linear regression with cross validation, regression tree, random forest, support vector machine, k-means cluster, and neural network to accurately predict insurance charges as meaasured by mean squared error.
+tools: [R]
+image: 
+external_url: https://github.com/dustinberry1/Insurance-Analysis
+---
