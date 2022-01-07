@@ -19,7 +19,7 @@ While my official data science journey began just over two years ago, I am by no
 
 That experience with predictive analytics always burned bright in my memory and immediately attracted me to the field of data science when I was exposed to it in 2019.
 
-By uniquely combining 22 years of military service and advanced data science/ML training, I can add a rare combination of honed communication ability, interpersonal flexibility, situational adaptability, and technical skills to any data science team. 
+By uniquely combining 22 years of military service and advanced data science/ML training, I can add a rare combination of honed communication ability, interpersonal flexibility, situational adaptability, and technical skills to any data science team. s
 
 <div class="row">
 {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
