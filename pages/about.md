@@ -8,9 +8,18 @@ weight: 3
 # **About Me**
 
 <br>
-A fiercely loyal teammate with strong technical skills in data science and machine learning, the ability to grasp complex concepts quickly, and impeccable attention to detail.  In the past 12 months I have graduated #1 in my cohort of 68 students with a Master's of Science in Data Science and a certificate in Machine Learning from Maryville University of St. Louis and served on a team of three to win the Department of the Army's Deep Green Data Science competition.  My journey with data began in 2006 on my first deployment overseas where I scrubbed information to manually build a rudimentary pattern analysis tool that provided me the ability to predict the emplacement time and location of improvised explosive devices.  That modeling experience stayed with me over the years in various military roles, always pushing me to quantify my surroundings and search deeper for answers.  When I found the field of Data Science in 2019, I was immediately drawn in, and have been immersed ever since.  
+As a seasoned military engineer officer, I am equally comfortable navigating both complexity and ambiguity. This momentum as a “complexity/ambiguity native” served as the primary catalyst behind my mid-career transition into data science and machine learning.
 
-With over 22 years of military experience, I have honed my interpersonal skills and have the ability to assimilate into any environment to help the team achieve success.  I take pride in my ability to convey topics to others, regardless of background, and have been trusted to share ideas as a speaker in both military and civilian settings.  A few of these occasions include:  serving as the senior mentor for junior military officer classes, speaking at military graduations and formal events, being hand selected to deliver technical and strategic topics to Army staffs around the world, giving an inspirational speech at the Maryville University graduate school commencement, and representing my organization in a meeting with the Vice President of the United States.
+This 24-month transition included: 
+•	Graduating at the top of my class for a Master’s of Science in Data Science from Maryville University of St. Louis
+•	Earning a certificate in Machine Learning (ML) from Maryville University of St. Louis
+•	Serving on a team of three to win the Department of the Army’s 2021 Deep Green Data Science Competition
+
+While my official data science journey began just over two years ago, I am by no means new to data. My practical experience grappling with data started 16 years ago. During my first combat tour in 2006, I wrangled data and built a rudimentary pattern analysis tool, empowering my military unit with the ability to predict the emplacement time and location of improvised explosive devices.
+
+That experience with predictive analytics always burned bright in my memory and immediately attracted me to the field of data science when I was exposed to it in 2019.
+
+By uniquely combining 22 years of military service and advanced data science/ML training, I can add a rare combination of honed communication ability, interpersonal flexibility, situational adaptability, and technical skills to any data science team. 
 
 <div class="row">
 {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
