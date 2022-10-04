@@ -13,7 +13,7 @@ As a seasoned military engineer officer, I am equally comfortable navigating bot
 This 24-month transition included:
 <ul>
   <li>Graduating at the top of my class for a Master’s of Science in Data Science from Maryville University of St. Louis</li>
-  <li>Earning a certificate in Machine Learning (ML) from Maryville University of St. Louis</li>
+  <li>Earning a graduate certificate in Machine Learning (ML) from Maryville University of St. Louis</li>
   <li>Serving on a team of three to win the Department of the Army’s 2021 Deep Green Data Science Competition</li>
 </ul>
 
@@ -21,7 +21,7 @@ While my official data science journey began just over two years ago, I am by no
 
 That experience with predictive analytics always burned bright in my memory and immediately attracted me to the field of data science when I was exposed to it in 2019.
 
-By uniquely combining 22 years of military service and advanced data science/ML training, I can add a rare combination of honed communication ability, interpersonal flexibility, situational adaptability, and technical skills to any data science team.
+By uniquely combining 23 years of military service and advanced data science/ML training, I can add a rare combination of honed communication ability, interpersonal flexibility, situational adaptability, and technical skills to any data science team.
 
 <div class="row">
 {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
