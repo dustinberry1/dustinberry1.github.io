@@ -8,7 +8,7 @@ weight: 3
 # **About Me**
 
 <br>
-As a seasoned military engineer officer, I am equally comfortable navigating both complexity and ambiguity. This momentum as a “complexity/ambiguity native” served as the primary catalyst behind my mid-career transition into data science and machine learning.
+As a seasoned military engineer officer with an active TS/SCI security clearance, I am equally comfortable navigating both complexity and ambiguity. This momentum as a “complexity/ambiguity native” served as the primary catalyst behind my mid-career transition into data science and machine learning.
 
 This 24-month transition included:
 <ul>
